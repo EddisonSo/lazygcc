@@ -6,5 +6,5 @@ Have Bash installed on device.
 Place the script in a location where ite can be executed
 
 Usage:
-1. lazygcc <optional arguments for gcc>
+1. lazygcc \<optional arguments for gcc\>
 2. Profit!
